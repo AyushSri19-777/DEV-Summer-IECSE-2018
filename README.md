@@ -12,4 +12,4 @@ The repository for the dev summer project for 2018.
 	* `git add .` this adds all your work to the staging area.
 	* `git commit -m "message" `   creates a local commit of your changes.
 	* `git push origin <branch name>` makes the changes permanent on the remote repo.
-* We will try to commit all solutions to the master branch, so don't mess with that branch.
+* All solutions will be pushed to the master branch.
