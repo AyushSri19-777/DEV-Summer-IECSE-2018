@@ -13,3 +13,4 @@ The repository for the dev summer project for 2018.
 	* `git commit -m "message" `   creates a local commit of your changes.
 	* `git push origin <branch name>` makes the changes permanent on the remote repo.
 * All solutions will be pushed to the master branch.
+* All tasks will be uploaded [here](https://github.com/aritra24/dev-summer-project-2018/wiki) and on the group.
