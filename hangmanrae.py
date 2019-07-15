@@ -90,7 +90,7 @@ def display(current_word):
 	print("\n\nCurrent Word = ", end = '')
 	for i in current_word:
 		print(i,end = '')
-	print()
+	#print()
 
 def get_letter():
 	letter=input("Enter a letter : ")
